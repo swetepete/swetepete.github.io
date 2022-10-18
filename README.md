@@ -1,2 +1,3 @@
 # swetepete.github.io
-A personal website.
+
+This is a preliminary draft of a personal website.
